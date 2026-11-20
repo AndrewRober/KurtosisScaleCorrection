@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+__pycache__/
+*.pyc
+hf_tmp/
+Datasets/
+Results/
+Small Ds samples/
+Medium Ds samples/
+Large Ds samples/

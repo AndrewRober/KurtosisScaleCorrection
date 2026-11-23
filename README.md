@@ -5,7 +5,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-NumPy%20%7C%20PyTorch%20CUDA-3776AB)](python/kps_scale.py)
 [![.NET 8.0](https://img.shields.io/badge/.NET%208.0-C%23%20Library%20%26%20MSTest-512BD4)](csharp/KurtosisPowerScale.cs)
 
-> **Upgraded & Extended Research Repository** building on [`DeviationBaisExperiment` (2023)](https://github.com/AndrewRober/DeviationBaisExperiment).  
+> **Upgraded & Extended Research Repository** building on `DeviationBaisExperiment` (2023).  
 > **Full Typeset Paper:** [`paper/KurtosisScaleCorrection_Paper.pdf`](paper/KurtosisScaleCorrection_Paper.pdf)
 
 ---

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or research paper, please cite it as below."
+type: software
+title: "Beyond Bessel's Correction: Power-Scale Concavity-Convexity Duality, Kurtosis-Optimal Shrinkage (KPS), and Empirical-Bayes GRPO"
+authors:
+  - family-names: "Samy"
+    given-names: "Andrew Rober Fouad"
+    email: "andrew.rober@bytesglue.com"
+    affiliation: "BytesGlue"
+repository-code: "https://github.com/AndrewRober/KurtosisScaleCorrection"
+url: "https://andrewrober.github.io/papers/kurtosis-scale-correction/"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-20"
